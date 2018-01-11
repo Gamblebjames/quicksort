@@ -4,8 +4,8 @@
 	Creation Date: 01/08/2018
 	Last Modified: 01/10/2018
 	Last Modified By: Ben Gamble
-	Description: Quicksort algorithm to create a sorted list of integers in 
-	increasing order.
+	Description: Divide and conquer algorithm to create a sorted list of
+	integers in increasing order.
 ******************************************************************************/
 
 #include <stdio.h>
